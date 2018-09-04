@@ -1,0 +1,113 @@
+==+== MIT PSG Paper Review Form
+==-== DO NOT CHANGE LINES THAT START WITH "==+==" UNLESS DIRECTED!
+==-== For further guidance, or to upload this file when you are done, go to:
+==-== https://mit-psg18.hotcrp.com/offline
+
+==+== =====================================================================
+==+== Begin Review
+==+== Reviewer: Michael Carbin <mcarbin@csail.mit.edu>
+
+==+== Paper #2
+==-== Title: Ithemal: Accurate, Portable and Fast Basic Block Throughput
+==-==        Estimation using Deep Neural Networks
+
+==+== Review Readiness
+==-== Enter "Ready" if the review is ready for others to see:
+
+Ready
+
+==+== Review Anonymity
+==-== MIT PSG allows either anonymous or open review.
+==-== Enter "Open" if you want to expose your name to authors:
+
+Anonymous
+
+==+== A. Overall merit
+==-==    An evaluation of the current state of the work under the model
+==-==    that it is under review for a hypothetical top-tier conference
+==-==    organized by MIT PL.  The contents of the review should provide an
+==-==    explicit justification for the score, including, for example,
+==-==    suggested revisions.
+==-==    
+==-==    
+==-==    The scores of 2 and 3 indicate that the submission has a set of
+==-==    well-scoped revisions that -- if executed -- would lead the
+==-==    reviewers to recommend the paper for acceptance.
+==-==    
+==-==    
+==-==    The distinction between minor (Score 3) and major revisions (Score
+==-==    2) are that major revisions are those for which the outcome of the
+==-==    revision may affect the decision to recommend the paper for
+==-==    acceptance.  For example, if the reviewers were to request a new
+==-==    experiment that if unsuccessful would preclude them from
+==-==    recommending the paper for acceptance, then that experiment would
+==-==    be a major revision.
+==-==    
+==-==    
+==-==    A score of 1 indicates that the submission requires a set of
+==-==    revisions that do not have a clear scope. In essence the reviewers
+==-==    are unable to envision a/the complete version of the work. 
+==-==    
+==-==    
+==-==    For example, if the reviewers have significant trouble
+==-==    understanding the submission's approach and cannot suggest a
+==-==    well-scoped set of changes that would settle their understanding,
+==-==    then a score of 1 would be appropriate.
+==-== Choices:
+==-==    1. Requires Resubmission
+==-==    2. Requires Major Revisions
+==-==    3. Requires Minor Revisions
+==-==    4. Accept
+==-== Enter the number of your choice:
+
+(Your choice here)
+
+==+== B. Reviewer expertise
+==-== Choices:
+==-==    1. No familiarity
+==-==    2. Some familiarity
+==-==    3. Knowledgeable
+==-==    4. Expert
+==-== Enter the number of your choice:
+
+(Your choice here)
+
+==+== C. Paper summary
+==-== Markdown styling and LaTeX math supported.
+
+
+
+==+== D. Strengths
+==-==    What are the paper’s strengths? Just a couple sentences, please.
+==-== Markdown styling and LaTeX math supported.
+
+
+
+==+== E. Weaknesses
+==-==    What are the paper’s weaknesses? Just a couple sentences,
+==-==    please.
+==-== Markdown styling and LaTeX math supported.
+
+
+
+==+== F. Comments for author
+==-== Markdown styling and LaTeX math supported.
+
+
+
+==+== G. Required Revisions
+==-==    Detail revisions required for acceptance.
+==-== Hidden from authors.
+==-== Markdown styling and LaTeX math supported.
+
+
+
+==+== H. Comments for PC
+==-== Hidden from authors.
+==-== Markdown styling and LaTeX math supported.
+
+
+
+==+== Scratchpad (for unsaved private notes)
+
+==+== End Review
