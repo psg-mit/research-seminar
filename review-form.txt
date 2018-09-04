@@ -92,6 +92,7 @@ Anonymous
 
 ==+== F. Comments for author
 ==-== Markdown styling and LaTeX math supported.
+==-== For papers that rely on empirical evaluations such as benchmarking etc., please give comments on experimental setup, on the fariness of the experiments.
 
 
 
