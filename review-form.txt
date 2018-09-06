@@ -92,6 +92,8 @@ Anonymous
 
 ==+== F. Comments for author
 ==-== Markdown styling and LaTeX math supported.
+==-== For papers that rely on empirical evaluations such as benchmarking etc., please give comments on experimental setup, on the fariness of the experiments.
+==-== Refer to [SIGPLAN Empirical Evaluation Checklist](http://www.sigplan.org/Resources/EmpiricalEvaluation/) for guidance.
 
 
 
